@@ -1,0 +1,58 @@
+#logbox{
+    padding-top: 30px;
+    width: 100%;
+    float: left;
+}
+#logbox2{
+    padding-top: 80px;
+    width: 100%;
+    position: fixed;
+    right: 200px;
+    top: 112px;
+    height: 388px;
+    width: 400px;
+    background-color: white;
+    padding-left: 20px;
+    z-index: 0;
+    
+
+}
+#name,#email,#add{
+    /* float: inline-start; */
+    margin-left: 20px;
+    height: 30px;
+    padding-left: 10px;
+    width: 220px;
+    border: 2px solid  rgba(216, 215, 215, 0.781);
+
+
+}
+#loginbox{
+    height: 306px;
+    width: 399px;
+    background-color: white;
+    margin-left: 243px;
+}
+
+#logtxt{
+    font-family: 'Arial';
+    font-weight: bold;
+    padding-left: 38px;
+    font-size: 18px;
+    padding-top: 31px;
+    color: rgba(62,65,82,255);
+    text-shadow: 1px 1px 15px rgba(241, 237, 237, 0.863);
+}
+#search2{
+    background-color: white;
+    height: 40px;
+    border: 2px solid  rgba(216, 215, 215, 0.781);
+    background-size: 40px 38px;
+    background-image:url(log91.PNG);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    margin-top: 30px;
+    margin-left: 35px;
+    padding: 0px 0px 0px 52px;
+    font-family:'Arial';
+}

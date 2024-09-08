@@ -1,0 +1,21 @@
+#div2{
+    border: 5px ;
+    border-radius: 100% 0%;
+    background-color: red;
+    height: 100;
+    width: 100;
+    box-shadow :5px 5px 5px gray;
+    
+}
+#div3{
+    border: 5px;
+    border-top-right-radius: 100% ;
+    border-bottom-left-radius: 100%;
+    background-color:purple;
+    height: 100;
+    width: 100;
+    box-shadow: 5px 5px 5px gray;
+}
+body{
+    background-color: aqua;
+}   

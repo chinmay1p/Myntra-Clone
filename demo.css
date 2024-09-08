@@ -1,0 +1,39 @@
+#para1{
+    background-color: orange;
+    color: brown;
+    text-align: center;
+    font-size: 50;
+    font-style: italic;
+    font-family: fantasy;
+}
+#div1{
+    background-image: url(cherry-blossom-falling.gif);
+    border: 5px solid blue;
+
+}
+#div2{
+    border: 5px solid black;
+    border-radius: 100% 0%;
+    background-color: red;
+    height: 100;
+    width: 100;
+    box-shadow :100px red;
+    
+}
+#div3{
+    border: 5px solid black;
+    border-top-right-radius: 100% ;
+    border-bottom-left-radius: 100%;
+    background-color:purple;
+    height: 100;
+    width: 100;
+}
+#txt1{
+    font-size: 30;
+    font-family: papyrus;
+    font-style: oblique;
+    font-weight: bold;
+}
+body{
+    background-color: aqua;
+}
